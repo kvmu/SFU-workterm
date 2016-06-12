@@ -48,4 +48,11 @@ of the discriminant given by the Neymann-Pearson Lemma
 
 ## LDA_compare_Ratio.py
 
+This script compares the separation power of the discriminant given by the 
+Neymann-Pearson Lemma: log(ME_signal/ME_bkg) with a simple linear discriminant
+provided by Linear Discriminant Analysis.
+
 ## kernel.py
+
+This file serves as a wrapper between python and the GPU. There are two use-cases:
+OpenCL or pyCuda. I used pyCuda for the most part.
