@@ -1,4 +1,7 @@
-# TODO: (Introduction/Background/Theories)
+# NSERC USRA Workterm
+Here I have a collection of my work conducted at SFU during the summer of 2015. To get some context and a good summary of my work, download the final_poster.pdf and have a look! It summarizes everything neatly (if you try to read it through GitHub it looks weird due to the rendering.
+
+Below, I just have some description of the functions I have put up.
 
 ## factory_analysis.py
 
